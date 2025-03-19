@@ -1,5 +1,9 @@
+# DATE: 12/03/2025
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
+# NAME: NAVEEN JAISANKER
+# REG. NO.: 21224110039
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
